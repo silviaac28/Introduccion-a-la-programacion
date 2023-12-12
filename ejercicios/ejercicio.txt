@@ -8,3 +8,5 @@ proceso
 salida
 
 nuevo cambio desde github
+
+nuevo cambio desde mipc, luego de hacer clone
